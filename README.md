@@ -5,7 +5,7 @@ La presente repository rappresenta lo spazio di pubblicazione principale del Gru
 
 # Componenti del progetto 
 
-Il progetto ha toccato tutte le classi di discipline affrontate nel corso degli studi del quinto anno. In questo contesto, si riportano i prodotti dei lavori realizzati nell'ambito delle discipline specifiche dell'indirizzo di *Informatica e Telecomunicazioni*
+Il progetto ha toccato tutte le classi di discipline affrontate nel corso degli studi del quinto anno. In questo contesto, si riportano i prodotti dei lavori realizzati nell'ambito delle discipline specifiche dell'indirizzo di *Informatica e Telecomunicazioni*.
 
 ## Informatica
 
