@@ -16,7 +16,13 @@ Il progetto ha toccato tutte le classi di discipline affrontate nel corso degli 
 
 ## Informatica
 
-Il progetto, attualmente, è in fase di completamento.
+Viene riportato il codice sorgente del progetto interdisciplinare in PHP, che fa uso della libreria esterna TCPDF.  
+  
+
+Il progetto è stato inoltre pubblicato all'indirizzo: 
+```
+https://labs3.fauser.edu/~web11161/gruppo1-progetto-covid/
+```
 
 ## Tecnologie e Progettazione
 
