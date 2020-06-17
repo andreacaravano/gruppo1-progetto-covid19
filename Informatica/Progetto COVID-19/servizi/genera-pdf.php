@@ -1,5 +1,5 @@
 <?php
-if (intval(date("H")) >= 23 || isset($_GET["primo"])) {
+if (intval(date("H")) >= 18 || isset($_GET["primo"])) {
     if (file_exists('riepiloghi/' . 'riepilogo-' . date("d-m-Y") . '.pdf')) {
         header("Location: " . 'riepiloghi/' . 'riepilogo-' . date("d-m-Y") . '.pdf', true, 302);
         return;

@@ -18,22 +18,28 @@ Il progetto ha toccato tutte le classi di discipline affrontate nel corso degli 
 
 Viene riportato il codice sorgente del progetto interdisciplinare in PHP, che fa uso della libreria esterna TCPDF.  
   
+Il progetto è stato inoltre pubblicato su LABS3: 
 
-Il progetto è stato inoltre pubblicato all'indirizzo: 
-```
-https://labs3.fauser.edu/~web11161/gruppo1-progetto-covid/
-```
+> [AVVIA IL PROGETTO](https://labs3.fauser.edu/~web11161/gruppo1-progetto-covid/)
 
 ## Tecnologie e Progettazione
 
-Il progetto, attualmente, è in fase di completamento.
+Viene riportato lo schema di funzionamento, comprensivo di Application Server (NetLab) e Database Server (LABS3).  
+
+Il progetto è stato inoltre pubblicato su NetLab: 
+
+> [AVVIA IL PROGETTO](http://www.netlab.fauser.edu/java-studenti/gruppo1-progetto-covid/)
 
 ## Sistemi e reti
 
-Il progetto, attualmente, è in fase di completamento.
+Viene riportato il diagramma dell'infrastruttura di rete e la relativa implementazione in Cisco Packet Tracer.
 
 ## Gestione progetto ed organizzazione d'impresa
 
 Vengono riportati i documenti di progetto (Project Initial Document - PID), con i riferimenti sulle tempistiche e Software utilizzati.  
 Vengono poi riportati i diagrammi di Gantt e la Work Breakdown Structure (WBS).  
 Per una più facile consultazione, i documenti sono suddivisi per disciplina.
+
+## Matematica
+
+Vengono riportati i file in Microsoft Excel e Microsoft Access, contenenti i grafici e le tabelle Pivot utili allo studio e alla valutazione delle dinamiche del nuovo Coronavirus, sulla base di un set di dati predefinito ed aggiornato a maggio 2020.
