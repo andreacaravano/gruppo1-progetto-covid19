@@ -1,0 +1,41 @@
+.barraNav .nav-link {
+  color: #ffffff !important;
+  font-size: 13px;
+}
+
+.barraNav .logoNav {
+  font-size: 21px;
+  line-height: 0;
+}
+
+.barraNav {
+  background-color: initial !important;
+}
+
+.barraNav .navbar-toggler {
+  padding: 0;
+  font-size: 1.25rem;
+  line-height: 1;
+  border: 0;
+  border-radius: 0;
+}
+
+.barraNav .navbar-toggler-icon {
+  background-image: none;
+  line-height: 2rem;
+}
+
+@media (max-width: 576px) {
+  .barraNav #menu {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+}
+
+@media (max-width: 576px) {
+  .barraNav #menu li a {
+    font-size: 17px;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+}
+
