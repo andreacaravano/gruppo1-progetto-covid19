@@ -18,9 +18,9 @@ Il progetto ha toccato tutte le classi di discipline affrontate nel corso degli 
 
 Viene riportato il codice sorgente del progetto interdisciplinare in PHP, che fa uso della libreria esterna TCPDF.
   
-Il progetto è stato inoltre pubblicato su LABS3:
+[comment]: # (Il progetto è stato inoltre pubblicato su LABS3:)
 
-> [AVVIA IL PROGETTO](https://labs3.fauser.edu/~web11161/gruppo1-progetto-covid/)
+Attualmente, la pubblicazione del progetto è in fase di revisione al fine di garantire la massima sicurezza operativa.
 
 ## Tecnologie e Progettazione
 
@@ -28,7 +28,7 @@ Viene riportato lo schema di funzionamento, comprensivo di Application Server (N
 
 Da fine 2020, il progetto viene mantenuto attivo attraverso un'infrastruttura similare progettata e mantenuta dal capogruppo Andrea Caravano:
 
-> [AVVIA IL PROGETTO](https://andreacaravano.net/srv/progetto-covid/)
+> [AVVIA IL PROGETTO](https://java.andreacaravano.net/progetto-covid/)
 
 [//]: # (Il progetto è stato inoltre pubblicato su NetLab:)
 
